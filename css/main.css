@@ -1,0 +1,13 @@
+a:hover {
+    color: red;
+}
+
+a:link,
+a:visited {
+    color: none;
+}
+
+a {
+    color: #00A000;
+    display: contents;
+}
